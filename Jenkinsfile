@@ -1,7 +1,7 @@
 pipeline {
   
     agent {
-        label 'Ansible-Node'
+        label 'Rehman-Node'
     }
     
     tools{
